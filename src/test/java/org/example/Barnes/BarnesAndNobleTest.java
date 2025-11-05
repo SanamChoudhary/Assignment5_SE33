@@ -15,7 +15,7 @@ import static org.mockito.Mockito.doAnswer;
 class BarnesAndNobleTest {
 
     /**
-     *        <Specification-Based Testing>
+     *         <Specification-Based Testing>
      *
      *         1.) Understand the Requirements
      *
